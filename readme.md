@@ -23,7 +23,7 @@ Not much just run the code really. The input has been predefined for the eil51 i
 ## Group Members
 
 - Mohamad Akmal Arif Bin Mohamad Kamal Arifin **[2017151]**
-- Muhd Afiq Husyairi Bin Mohd Fadzli **[2018769]** 
+- Muhd Afiq Husyairi Bin Mohd Fadzli **[2018769]**(https://malaysia.indeed.com/jobs?q=data+science&sc=0kf%3Ajt%28internship%29%3B&vjk=92fdf44b2dcb556c)
 - Muhammad Aiman bin Mat Isa **[2014243]**
 - Muhammad Afiq bin Kharul Azman **[2011595]**
 
