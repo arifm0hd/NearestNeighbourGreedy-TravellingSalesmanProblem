@@ -1,4 +1,4 @@
-#  Nearest Neighbout Greedy - TSP | CSCI3302 GROUP PROJECT
+#  Nearest Neighbour Greedy - TSP | CSCI3302 GROUP PROJECT
 
 This is a project for the Data Structures and Algorithm course, CSCI3302. This project is supposedly purposed to solve a specific instance of the Traveling Salesman Problem called the eil51. The eil51 TSP (Traveling Salesman Problem) is a well-known optimization problem in the field of operations research. It refers to the problem of finding the shortest route that visits a set of 51 cities (depots) and returns to the starting city, such that each city is visited exactly once. The eil51 TSP is often used as a benchmark for evaluating the performance of TSP solvers, as the problem size is small enough to obtain optimal solutions in reasonable time, yet challenging enough to test the quality of the solutions.
 
