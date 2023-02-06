@@ -7,6 +7,9 @@ As a group we did a study on the performance of the **Greedy VS Dynamic Programm
 I was responsible on working on the **Greedy Approach** combined with the **Nearest Neighbor Algorithm (NND) from Both
 End-Points**
 
+## How-to-Use
+Not much just run the code really. The input has been predefined for the eil51 instance of the TSP.
+
 ## Results (Total Path Distance)
 | Greedy    | NND + Greedy     |
 | :-------- | :-------         |
