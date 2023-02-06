@@ -4,8 +4,8 @@ This is a project for the Data Structures and Algorithm course, CSCI3302. This p
 
 As a group we did a study on the performance of the **Greedy VS Dynamic Programming and its modifications in solving the Traveling Salesman Problem**.
 
-I was responsible on working on the **Greedy Approach** combined with the **Nearest Neighbor Algorithm (NND) from Both
-End-Points**
+A part of the study was to modify the **Greedy Approach** and combine it with the **Nearest Neighbor Algorithm (NND) from Both
+End-Points**. The TSP is an NP-hard optimization problem where the goal is to find the shortest possible route that visits a set of cities and returns to the starting city. The NN from Both End-Points algorithm can be used to initialize the solution by finding the nearest and furthest neighbors for each city. Then, the greedy algorithm can be used to improve the solution by making local improvements to the current solution.
 
 ## How-to-Use
 Not much just run the code really. The input has been predefined for the eil51 instance of the TSP.
