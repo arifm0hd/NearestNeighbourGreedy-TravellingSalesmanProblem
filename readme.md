@@ -13,7 +13,7 @@ Not much just run the code really. The input has been predefined for the eil51 i
 ## Results (Total Path Distance)
 | Greedy    | NND + Greedy     |
 | :-------- | :-------         |
-| `544.41`  | `479.43`         |
+| `479.43`  | `544.41`         |
 
 ## Findings
 - Theory wise the NND + Greedy would have better performance compared to Greedy only approach. However, results showed that the performance favors Greedy over NND + Greedy.
